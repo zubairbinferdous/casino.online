@@ -1,0 +1,110 @@
+.page-content {
+  font-size: 1rem;
+  overflow-x: hidden;
+}
+
+.showmore-expand-label:after {
+  content: "Read More";
+}
+
+.telegram-logo-menu {
+  display: none;
+}
+
+.webp .i-f-luckylabz,
+.webp #lz-footer i,
+.webp .footer-logos > i {
+  /*background-image: none !important;*/
+}
+
+#main-menu li.menu-item-has-children > label:before {
+  content: "\e855";
+  font-family: casino-online;
+  font-size: 9px;
+  position: relative;
+  bottom: 2px;
+  right: 1px;
+  width: 9px;
+  height: 9px;
+}
+
+.bg-black {
+  background-color: #1b2b38;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.casino-data-area {
+  background-color: #ffffff;
+  border-radius: 15px;
+  margin-bottom: 40px;
+}
+
+.p-rl-40 {
+  padding: 0px 20px;
+}
+
+.bonus {
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+  color: #222020;
+}
+
+.box-one {
+  width: 50%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h6,
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+.casino-payment-logo span {
+  font-size: 10px;
+  margin-bottom: 15px;
+}
+
+.btn-claim {
+  padding: 7px 50px;
+  background: #3c9542;
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.casino-btn-area a {
+  color: white !important;
+  font-size: 14px;
+  font-weight: bolder;
+}
+
+.value {
+  font-weight: 900;
+  color: #202020;
+}
+
+.casino-payment-logo {
+  margin: 20px 0px;
+}
+
+.casino-payment-logo-area img {
+  border-radius: 50%;
+}
+.value_bonus {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+  color: #3c9542;
+}
+
+.value_bonuss {
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  color: #3c9542;
+}
