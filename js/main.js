@@ -1960,8 +1960,8 @@ function menu() {
     <div id="main-menu-holder">
     <div class="container p-0">
         <a class="site-logo gtm-menu-logo" href="https://casino.online/">
-            <img src="/wp-content/themes/ministrap-child/assets/images/casino-online.svg" width="135"
-                height="60" class="no-lazy" alt="Casino.Online Logo">
+            <img src="/wp-content/themes/ministrap-child/assets/images/casino-online.svg" width="135" height="60"
+                class="no-lazy" alt="Casino.Online Logo">
         </a>
         <input type="checkbox" id="burger-shower" class="burger-shower">
         <label for="burger-shower" class="hamburger">
@@ -1969,32 +1969,25 @@ function menu() {
         </label>
         <div id="main-menu-container">
             <ul id="main-menu" class="navbar-nav">
-                <li class="dropdown-reworked menu-item-has-children menu-item-21464 dropdown"><a
-                        class="dropdown-toggle"><span class="menu-text">Online Casinos</span> <span
+                <li class="dropdown-reworked menu-item-has-children menu-item-21464 dropdown">
+                    <a class="dropdown-toggle" href="./index.html"><span class="menu-text">Online Casinos</span> <span
                             class="caret"></span></a><input type="checkbox" id="dropdown-shower-21464"
                         class="dropdown-shower">
                     <ul role="menu" class="dropdown-menu">
-                        <li class="menu-item-home menu-item-3571"><a href="casino.html"><span
-                                    class="menu-text">Online Casinos</span></a><input type="checkbox"
-                                id="dropdown-shower-3571" class="dropdown-shower"><label
-                                for="dropdown-shower-3571" class="dropdown-shower-label"><span>Back to
+                        <li class="menu-item-home menu-item-3571"><a href="casino.html"><span class="menu-text">Online
+                                    Casinos</span></a><input type="checkbox" id="dropdown-shower-3571"
+                                class="dropdown-shower"><label for="dropdown-shower-3571"
+                                class="dropdown-shower-label"><span>Back to
                                     menu</span></label></li>
-                        <li class="menu-item-7798"><a href="https://casino.online/crypto-casinos/"><span
-                                    class="menu-text">Crypto Casinos</span></a><input type="checkbox"
-                                id="dropdown-shower-7798" class="dropdown-shower"><label
-                                for="dropdown-shower-7798" class="dropdown-shower-label"><span>Back to
+                        <li class="menu-item-7798"><a href="./cryptoCasion.html"><span class="menu-text">Crypto
+                                    Casinos</span></a><input type="checkbox" id="dropdown-shower-7798"
+                                class="dropdown-shower"><label for="dropdown-shower-7798"
+                                class="dropdown-shower-label"><span>Back to
                                     menu</span></label></li>
-                        <li class="menu-item-10088"><a href="https://casino.online/new/"><span
-                                    class="menu-text">New
+                        <li class="menu-item-10088"><a href="newCasino.html"><span class="menu-text">New
                                     Online Casinos</span></a><input type="checkbox" id="dropdown-shower-10088"
                                 class="dropdown-shower"><label for="dropdown-shower-10088"
                                 class="dropdown-shower-label"><span>Back to menu</span></label></li>
-                        <li class="menu-item-10088"><a href="https://casino.online/new/"><span
-                                    class="menu-text">Fast Withdrawal Casinos</span></a><input type="checkbox"
-                                id="dropdown-shower-10088" class="dropdown-shower"><label
-                                for="dropdown-shower-10088" class="dropdown-shower-label"><span>Back to
-                                    menu</span></label></li>
-
                     </ul>
                 </li>
                 <li class="dropdown-reworked menu-item-has-children menu-item-21453 dropdown"><a
@@ -2002,26 +1995,22 @@ function menu() {
                             class="caret"></span></a><input type="checkbox" id="dropdown-shower-21453"
                         class="dropdown-shower">
                     <ul role="menu" class="dropdown-menu">
-                        <li class="menu-item-2746"><a href="https://casino.online/bonus/"><span
-                                    class="menu-text">Casino Bonus</span></a><input type="checkbox"
-                                id="dropdown-shower-2746" class="dropdown-shower"><label
-                                for="dropdown-shower-2746" class="dropdown-shower-label"><span>Back to
+                        <li class="menu-item-2746"><a href="./casinoBonuse.html"><span class="menu-text">Casino
+                                    Bonus</span></a><input type="checkbox" id="dropdown-shower-2746"
+                                class="dropdown-shower"><label for="dropdown-shower-2746"
+                                class="dropdown-shower-label"><span>Back to
                                     menu</span></label></li>
-                        <li class="menu-item-2745"><a href="https://casino.online/bonus/free-spins/"><span
-                                    class="menu-text">Free Spins Without Deposit</span></a><input
-                                type="checkbox" id="dropdown-shower-2745" class="dropdown-shower"><label
-                                for="dropdown-shower-2745" class="dropdown-shower-label"><span>Back to
+                        <li class="menu-item-2745"><a href="./freeSpin.html"><span class="menu-text">Free Spins Without
+                                    Deposit</span></a><input type="checkbox" id="dropdown-shower-2745"
+                                class="dropdown-shower"><label for="dropdown-shower-2745"
+                                class="dropdown-shower-label"><span>Back to
                                     menu</span></label></li>
-                        <li class="menu-item-2743"><a href="https://casino.online/bonus/no-deposit/"><span
-                                    class="menu-text">No Deposit Bonus</span></a><input type="checkbox"
-                                id="dropdown-shower-2743" class="dropdown-shower"><label
-                                for="dropdown-shower-2743" class="dropdown-shower-label"><span>Back to
+                        <li class="menu-item-2743"><a href="./nodeposit.html"><span class="menu-text">No Deposit
+                                    Bonus</span></a><input type="checkbox" id="dropdown-shower-2743"
+                                class="dropdown-shower"><label for="dropdown-shower-2743"
+                                class="dropdown-shower-label"><span>Back to
                                     menu</span></label></li>
-                        <li class="menu-item-20991"><a href="https://casino.online/bonus/first-deposit/"><span
-                                    class="menu-text">First Deposit Bonus</span></a><input type="checkbox"
-                                id="dropdown-shower-20991" class="dropdown-shower"><label
-                                for="dropdown-shower-20991" class="dropdown-shower-label"><span>Back to
-                                    menu</span></label></li>
+
 
                     </ul>
                 </li>
@@ -2030,16 +2019,16 @@ function menu() {
                             class="caret"></span></a><input type="checkbox" id="dropdown-shower-21465"
                         class="dropdown-shower">
                     <ul role="menu" class="dropdown-menu">
-                        <li class="menu-item-7564"><a href="https://casino.online/games/"><span
-                                    class="menu-text">Casino Games</span></a>
+                        <li class="menu-item-7564"><a href="casinoGame.html"><span class="menu-text">Casino
+                                    Games</span></a>
                         </li>
 
-                        <li class="menu-item-6172"><a href="https://casino.online/payments/"><span
-                                    class="menu-text">Slots</span></a><input type="checkbox"
+                        <li class="menu-item-6172"><a href="./blackjack.html"><span
+                                    class="menu-text">blackjack</span></a><input type="checkbox"
                                 id="dropdown-shower-6172" class="dropdown-shower">
                         </li>
-                        <li class="menu-item-6172"><a href="https://casino.online/payments/"><span
-                                    class="menu-text">Roulette</span></a><input type="checkbox"
+                        <li class="menu-item-6172"><a href="./baccarat.html"><span
+                                    class="menu-text">baccarat</span></a><input type="checkbox"
                                 id="dropdown-shower-6172" class="dropdown-shower">
                         </li>
                 </li>
@@ -2047,39 +2036,24 @@ function menu() {
             </ul>
             </li>
 
-            <li class="menu-item-2762"><a href="https://casino.online/mobile/"><span
-                        class="menu-text">Mobile</span></a><input type="checkbox" id="dropdown-shower-2762"
-                    class="dropdown-shower">
+            <li class="menu-item-2762"><a href="./mobile.html"><span class="menu-text">Mobile</span></a><input
+                    type="checkbox" id="dropdown-shower-2762" class="dropdown-shower">
             </li>
 
-            <li class="dropdown-reworked menu-item-has-children menu-item-21466 dropdown"><a
+            <li class="dropdown-reworked menu-item-has-children menu-item-21466 dropdown"><a href="./payment.html"
                     class="dropdown-toggle"><span class="menu-text">Payment Methods</span> <span
                         class="caret"></span></a><input type="checkbox" id="dropdown-shower-21466"
                     class="dropdown-shower">
                 <ul role="menu" class="dropdown-menu">
-                    <li class="menu-item-6172"><a href="https://casino.online/payments/"><span
-                                class="menu-text">Payment Methods</span></a><input type="checkbox"
-                            id="dropdown-shower-6172" class="dropdown-shower">
+                    <li class="menu-item-6172"><a href="./payment.html"><span class="menu-text">Payment
+                                Methods</span></a><input type="checkbox" id="dropdown-shower-6172"
+                            class="dropdown-shower">
                     </li>
-                    <li class="menu-item-3154"><a href="https://casino.online/payments/paypal/"><span
-                                class="menu-text">
+                    <li class="menu-item-3154"><a href="./paypal.html"><span class="menu-text">
                                 PayPal Casinos</span></a><input type="checkbox" id="dropdown-shower-3154"
                             class="dropdown-shower"></li>
-                    <li class="menu-item-3155"><a href="https://casino.online/payments/skrill/"><span
-                                class="menu-text">
+                    <li class="menu-item-3155"><a href="./skill.html"><span class="menu-text">
                                 Skrill Casinos</span></a><input type="checkbox" id="dropdown-shower-3155"
-                            class="dropdown-shower">
-                    </li>
-
-                    <li class="menu-item-3156"><a href="https://casino.online/payments/neteller/"><span
-                                class="menu-text">
-                                Neteller Casinos</span></a><input type="checkbox" id="dropdown-shower-3156"
-                            class="dropdown-shower">
-                    </li>
-
-                    <li class="menu-item-3157">
-                        <a href="https://casino.online/payments/debit-card/"><span class="menu-text">
-                                Debit Card Casinos</span></a><input type="checkbox" id="dropdown-shower-3157"
                             class="dropdown-shower">
                     </li>
                 </ul>
@@ -2268,42 +2242,38 @@ function menu() {
         }
     }
 </style>
-    <div class="container-fluid footer-menu-container py-3">
+
+<div class="container-fluid footer-menu-container py-3">
     <ul id="footer-menu" class="footer-nav">
         <li
             class="menu-item-type-menu-label menu-item-object-menu-label-object menu-item-has-children menu-item-5915 dropdown">
-            <span class="menu-text">Top Online Casinos</span>
+            <span class="menu-text">Online Casinos</span>
             <ul role="menu" class="dropdown-menu">
-                <li role="menuitem" class="role-menuitem menu-item-7448"><a
-                        href="https://casino.online/slot-sites/"><span class="menu-text">Best Slot Sites</span></a>
+                <li role="menuitem" class="role-menuitem menu-item-7448"><a href="casino.html"><span
+                            class="menu-text">Online
+                            Casinos</span></a>
                 </li>
-                <li class="menu-item-8363"><a href="https://casino.online/real-money/"><span class="menu-text">Real
-                            Money Casinos</span></a></li>
-                <li role="menuitem" class="role-menuitem menu-item-7450"><a
-                        href="https://casino.online/crypto-casinos/bitcoin/"><span class="menu-text">Bitcoin
+                <li class="menu-item-8363"><a href="./cryptoCasion.html"><span class="menu-text">Crypto
                             Casinos</span></a></li>
-                <li role="menuitem" class="role-menuitem menu-item-7557"><a
-                        href="https://casino.online/software/netent/"><span class="menu-text">NetEnt
-                            Casinos</span></a></li>
-                <li class="menu-item-17362"><a href="https://casino.online/sweepstakes-casinos/"><span
-                            class="menu-text">Best Sweepstakes Casinos</span></a></li>
+                <li role="menuitem" class="role-menuitem menu-item-7450"><a href="newCasino.html"><span
+                            class="menu-text">New
+                            Online Casinos</span></a></li>
             </ul>
         </li>
         <li
             class="menu-item-type-menu-label menu-item-object-menu-label-object menu-item-has-children menu-item-5913 dropdown">
-            <span class="menu-text">Casino Offers</span>
+            <span class="menu-text">Bonuses</span>
             <ul role="menu" class="dropdown-menu">
-                <li role="menuitem" class="role-menuitem menu-item-5902"><a
-                        href="https://casino.online/bonus/"><span class="menu-text">Online Casino Bonus</span></a>
+                <li role="menuitem" class="role-menuitem menu-item-5902"><a href="./casinoBonuse.html"><span
+                            class="menu-text">Casino
+                            Bonus</span></a>
                 </li>
-                <li role="menuitem" class="role-menuitem menu-item-7452"><a
-                        href="https://casino.online/bonus/free-spins/"><span class="menu-text">Free Spins No
+                <li role="menuitem" class="role-menuitem menu-item-7452"><a href="./freeSpin.html"><span
+                            class="menu-text">Free Spins Without
                             Deposit</span></a></li>
-                <li role="menuitem" class="role-menuitem menu-item-7453"><a
-                        href="https://casino.online/bonus/codes/"><span class="menu-text">Bonus Codes</span></a>
-                </li>
-                <li role="menuitem" class="role-menuitem menu-item-7454"><a
-                        href="https://casino.online/bonus/no-deposit/"><span class="menu-text">No Deposit Casino
+
+                <li role="menuitem" class="role-menuitem menu-item-7454"><a href="./nodeposit.html"><span
+                            class="menu-text">No Deposit Casino
                             Offers</span></a></li>
             </ul>
         </li>
@@ -2311,36 +2281,33 @@ function menu() {
             class="menu-item-type-menu-label menu-item-object-menu-label-object menu-item-has-children menu-item-7446 dropdown">
             <span class="menu-text">Casino Games</span>
             <ul role="menu" class="dropdown-menu">
-                <li role="menuitem" class="role-menuitem menu-item-7455"><a
-                        href="https://casino.online/blackjack/"><span class="menu-text">Blackjack</span></a></li>
+                <li role="menuitem" class="role-menuitem menu-item-7455"><a href="./blackjack.html"><span
+                            class="menu-text">Blackjack</span></a></li>
                 <li role="menuitem" class="role-menuitem current-page-ancestor menu-item-7456"><a
-                        href="https://casino.online/roulette/"><span class="menu-text">Roulette</span></a></li>
-                <li class="menu-item-21573"><a href="https://casino.online/games/baccarat/"><span
-                            class="menu-text">Baccarat Online</span></a></li>
+                        href="./baccarat.html"><span class="menu-text">baccarat</span></a></li>
+
             </ul>
         </li>
         <li
             class="menu-item-type-menu-label menu-item-object-menu-label-object menu-item-has-children menu-item-7447 dropdown">
-            <span class="menu-text">Guides, Tips &#038; Advisors</span>
+            <span class="menu-text">Payment Methods</span>
             <ul role="menu" class="dropdown-menu">
                 <li role="menuitem"
                     class="role-menuitem menu-item-type-taxonomy menu-item-object-category menu-item-7457"><a
-                        href="https://casino.online/advisor/"><span class="menu-text">Advisor</span></a></li>
-                <li role="menuitem" class="role-menuitem menu-item-7459"><a
-                        href="https://casino.online/payments/"><span class="menu-text">Casino Payment
-                            Methods</span></a></li>
-                <li class="menu-item-17192"><a href="https://casino.online/south-africa/"><span
-                            class="menu-text">Best Online Casinos in South Africa</span></a></li>
-                <li class="menu-item-17194"><a href="https://casino.online/ireland/"><span class="menu-text">Top
-                            Online Casinos Ireland</span></a></li>
-                <li class="menu-item-17195"><a href="https://casino.online/canada/"><span class="menu-text">Best
-                            Online Casinos in Canada</span></a></li>
-                <li class="menu-item-21572"><a href="https://casino.online/new-zealand/"><span class="menu-text">Top
-                            Online Casinos in New Zealand</span></a></li>
+                        href="/payment.html"><span class="menu-text">payment</span></a></li>
+                <li role="menuitem" class="role-menuitem menu-item-7459"><a href="https://casino.online/payments/"><span
+                            class="menu-text">Paypal Payment
+                        </span></a></li>
+                <li class="menu-item-17192"><a href="./paypal.html"><span class="menu-text">Best
+                            Online Casinos in South Africa</span></a></li>
+                <li class="menu-item-17194"><a href="./skill.html"><span class="menu-text">Skrill Casinos</span></a>
+                </li>
+
             </ul>
         </li>
     </ul>
 </div>
+   
     <div class="js-scroll-top ">
     <i class="fa fa-angle-up"></i>
 </div>
